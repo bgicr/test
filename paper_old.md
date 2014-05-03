@@ -1,17 +1,8 @@
 ---
-layout: post
-category : Group2
-title: LiLin
-tagline: 
+layout: page
+title: Paper
 ---
 {% include JB/setup %}
-<img src="/assets/images/resume/lilin.jpeg" style="float:left;width:150px;height:180px">
-Lin Li as a senior project manager at medical research department of BGI Tech.
-Lin’s current interest is to improve Cancer Sequencing Analysis Pipeline(CSAP) and develop Cancer Genome Interpretation Pipeline(CGIP). CSAP is a pipeline fully describing the genomic events in tumor and normal samples coming from a patient, including somatic variants detecting, purity estimating for NGS data. However, CGIP is a pipeline to analysis the characterization data based on cohort patients, including significant mutated genes(SMG), pathway enrichment, mutation spectrum analysis, mutation exclusive.
-
-Lin Li received his bachelor’s degree of Computer Science and Technology from Ocean University of China. As a senior bioinformatician, he and his team are now working on cancer research. He is a member of the ICGC Data Coordination and Management Working Group, a key member of the China Cancer Genome Consortium (CCGC), and takes charge of ICGC-China data submission. Now, he is mainly responsible for the bioinformatics analysis of esophageal cancer project from China.
-
-Lin has experience in detection methods of somatic SNVs, InDels, CNVs, SVs, Virus integration. These tools were important contents of CSAP.
 
 ####Main Publication
 <p>
@@ -44,3 +35,4 @@ Song, Yongmei, et al. "Identification of genomic alterations in oesophageal squa
 Cao, Yanan, et al. "Activating Hotspot L205R Mutation in PRKACA and Adrenal Cushing's Syndrome." Science (2014): 1249480.
 </a>
 </p>
+

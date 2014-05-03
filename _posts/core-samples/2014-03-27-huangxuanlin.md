@@ -1,7 +1,6 @@
 ---
 layout: post
 category : Group2
-tags : [HuangXuanlin]
 title: HuangXuanlin
 tagline: 
 ---
